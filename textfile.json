@@ -1,0 +1,53 @@
+[
+{"name":"intro paragraphs", 
+    "p1":"The expansion of electric vehicle (EV) fleets in coupled with the decarbonisation of power generation is fundamental to reduce air pollution, emissions, and oil demand from road transport. However, while EV deployment is more or less on track to meet these goals, the decarbonisation of electricity generation is uneven and woefully behind, putting at serious risk EV-based decarbonisation. Indeed, based on recent analysis, we know that average usage emissions of gas-powered vehicles are comparable to those of EVs charged from an electricity mix with a predominance of fossil fuels. On the other hand, current EVs in the market show larger upfront cost. However, the higher sticker price can be compensated over the vehicle lifetime by lower maintenance, fuel, and insurance costs. But most likely the sum does not add up if expensive battery replacements are needed during the EV lifetime.",
+    "p2":"This tool, using research by Dr Jorge Varela-Barreras, was made to show visually how these factors have changed in the last two decades. With the ability to change different variables to see how they affect these areas, we can see a different picture of what is needed to be done to achieve our zero-emission goals in the future.",
+    "p3":""},
+    {"name":"main desc",
+      "o1":{
+        "title":"EV vs PV-on-EV Emissions",
+        "desc":"This graph compares the emissions of Electric Vehicles with and without PV cells. Hover over a point to see the exact values of that country. You can see that for all countries emissions are reduced when PV-on-EVs are utilised, with countries with low VKTs being advantaged."
+      },
+      "o2":{
+        "title":"CO2 Reductions due to EV-Usage",
+        "desc":"Here you can see the reductions in emissions due to electric vehicles for each country, with those outside of the west seeing much greater reductions."
+      },
+      "o3":{
+        "title":"Change in Carbon Intensity of Electricity Generated",
+        "desc": "Here you can compare the Carbon Intensity of the electricity generated in 2013 and 2018 for each country. Nearly all countries have seen a reduction in emissions, with the difference varying regardless of region. Hover over the legend to view a specific year."
+      },
+      "o4":{
+        "title":"Comparing Average VKT and PV-only Range",
+        "desc":"This graph compares the average VKT/day of a country with the driving range powered by photovoltaic cells only. We can see that even developed countries like the US have very high VKT/day. Hover over the legend to change the view."
+      },
+      "o5":{
+        "title":"Comparing Reductions in CIEG",
+        "desc": "This graph shows how much the carbon intensity of electricity has reduced between 2013 and 2018, and compares it to the potential reductions by the use of PV-on-EV cars. Those countries with long daylight hours can take advantage of this and causes significant reductions in emissions, but for others its not worth it."
+      },
+      "o6":{
+        "title":"Comparing Global Horizontal Irradiance",
+        "desc":"Here you can see the Global Horizontal Irradiance, the total solar radiation incident on a horizontal surface, for each country. The higher this value the more power a PV-cell can output in these conditions."
+      }
+    },
+    {"name":"second descs",
+      "o1":{
+        "title":"EV vs PV-on-EV Emissions over time", 
+        "desc":"Here we can compare the emissions of electric vehicles with and without solar panels. We can also see how that has changed over the last few years and future predictions to 2040. Hover over the legend to select a specific country."
+      },
+      "o2":{
+        "title":"EV Emissions over time",
+        "desc": "Here we can more clearly see the trend of how electric vehicles have changed with time. We can see a general decrease from all 4 major regions."
+      },
+      "o3":{
+        "title":"PV-on-EV Emissions over time",
+        "desc":"Here we can more clearly see the trend of how electric vehicles with solar panels have changed with time. We can see a general decrease from all 4 major regions."
+      },
+      "o4":{
+        "title":"Carbon Intensity of Electricity Generated over time",
+        "desc":"This graph shows the change in Carbon Intensity of Electricity Generated and how it has/will expect to change with time."
+      }
+    },
+    {"name":"references", 
+      "p1":"Put things like references and stuff in here like a link to your research paper."
+    }
+  ]
